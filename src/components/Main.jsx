@@ -1,5 +1,8 @@
 import React from 'react';
+import '../assets/styles/components/Main.scss'
 
-const UseMe = () => (
+const Main = () => (
     <h1 className="StartHere" >Start Here</h1>
-)
+);
+
+export default Main;
